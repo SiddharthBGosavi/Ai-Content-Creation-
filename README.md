@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deploy-blue?logo=github)](https://SiddharthBGosavi.github.io/Ai-Content-Creation-) [![Top Language](https://img.shields.io/github/languages/top/SiddharthBGosavi/Ai-Content-Creation-)](https://github.com/SiddharthBGosavi/Ai-Content-Creation-)
+
 # Ai-Content-Creation
 
 A lightweight, front-end project for generating and formatting AI-assisted content. Built with HTML, CSS, and JavaScript, this repository contains UI and styling components to help create, preview, and export written content produced with AI tools.
@@ -29,11 +31,11 @@ Ai-Content-Creation is a simple, client-side project focused on helping users ge
 
 ## Demo
 
-If this repository includes a hosted demo (GitHub Pages or another host), link to it here. Example:
+Live demo (GitHub Pages):
 
 https://SiddharthBGosavi.github.io/Ai-Content-Creation-
 
-(Replace the link above with the actual URL if different.)
+(If Pages isn't published yet the link will return a 404 until the first successful deployment.)
 
 ## Tech Stack
 
@@ -66,19 +68,11 @@ Based on repository language stats: CSS (~38%), JavaScript (~33%), HTML (~28%).
 
 ## Contributing
 
-Contributions are welcome!
-
-- Fork the repository
-- Create a feature branch (e.g., `feature/my-change`)
-- Commit your changes and open a pull request
-
-Please follow standard open-source contribution practices and include clear commit messages.
+See `CONTRIBUTING.md` for contribution guidelines.
 
 ## License
 
-Specify a license for your project. If you don't have one yet, consider using the MIT License. Example:
-
-MIT © Your Name
+MIT © Siddharth B Gosavi
 
 ## Contact
 
@@ -89,7 +83,7 @@ Maintained by Siddharth B Gosavi
 
 ---
 
-If you'd like, I can: 
-- Add badges (build, license, demo)
-- Provide a short contributing or code of conduct template
-- Create a GitHub Pages workflow to publish the demo
+If you'd like, I can:
+- Add additional badges (CI, npm)
+- Add screenshots or a docs folder
+- Adjust the Pages workflow (deploy from /docs or add a build step)
