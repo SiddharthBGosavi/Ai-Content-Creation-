@@ -83,7 +83,4 @@ Maintained by Siddharth B Gosavi
 
 ---
 
-If you'd like, I can:
-- Add additional badges (CI, npm)
-- Add screenshots or a docs folder
-- Adjust the Pages workflow (deploy from /docs or add a build step)
+
