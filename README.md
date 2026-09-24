@@ -2,7 +2,7 @@
 
 # Ai-Content-Creation
 
-A lightweight, front-end project for generating and formatting AI-assisted content. Built with HTML, CSS, and JavaScript, this repository contains UI and styling components to help create, preview, and export written content produced with AI tools.
+A lightweight, front-end project and data driven project for generating and formatting AI-assisted content. Built with HTML, CSS, and JavaScript, this repository contains UI and styling components to help create, preview, and export written content produced with AI tools.
 
 ## Table of Contents
 
